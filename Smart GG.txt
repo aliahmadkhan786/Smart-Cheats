@@ -1,0 +1,1074 @@
+LHPS = gg.prompt({ "💠Smart Cheats💠\n🔵Telegram Join For New Password🔵\n🔵@smartcheats🔵" }, {}, {})
+if not LHPS then
+os.exit()
+end
+if LHPS[1] == "7860" then
+gg.alert("Login Successful ✅")
+else
+gg.alert("❌Wrong Password❌\n🔵Telegram Join For Correct Password🔵\n🔵@smartcheats🔵")
+os.exit()
+end
+gg.setVisible(false)
+gg.sleep(400)
+gg.toast("Loading ▓▒▒▒▒▒▒▒▒▒ 10%")
+gg.sleep(200)
+gg.toast("Loading ▓▓▒▒▒▒▒▒▒▒ 20%")
+gg.sleep(200)
+gg.toast("Loading ▓▓▓▒▒▒▒▒▒▒ 30%")
+gg.sleep(200)
+gg.toast("Loading ▓▓▓▓▒▒▒▒▒▒ 40%")
+gg.sleep(200)
+gg.toast("Loading ▓▓▓▓▓▒▒▒▒▒ 50%")
+gg.sleep(200)
+gg.toast("Loading ▓▓▓▓▓▓▒▒▒▒ 60%")
+gg.sleep(200)
+gg.toast("Loading ▓▓▓▓▓▓▓▒▒▒ 70%")
+gg.sleep(200)
+gg.toast("Loading ▓▓▓▓▓▓▓▓▒▒ 80%")
+gg.sleep(200)
+gg.toast("Loading ▓▓▓▓▓▓▓▓▓▒ 90%")
+gg.sleep(200)
+gg.toast("Loading ▓▓▓▓▓▓▓▓▓▓ 100%")
+gg.sleep(400)
+gg.setVisible(true)
+function LIB()
+end
+function setvalue(address,flags,value) LIB('Modify address value(Address, value type, value to be modified)')
+local tt={} tt[1]={} tt[1].address=address tt[1].flags=flags tt[1].value=value gg.setValues(tt) end
+os.remove("src/main/java/com/google/errorprone/annotations")
+os.remove("src/main/java/com/google/errorprone/annotations")
+os.remove("src/main/java/com/google/errorprone/annotations/concurrent")
+os.remove("third_party.java_src.error_prone.project.annotations.Google_internal")
+PUBG = -1
+function HOME()
+MENU = gg.choice({
+"📂 Bypass Lobby",
+"📂 Weapon Cheats",
+"📂 Other Cheats",
+"📂 Skin Cheats",
+"⛔ E x i t"
+}, nil, "💠🇸‌🇲‌🇦‌🇷‌🇹‌ 🇨‌🇭‌🇪‌🇦‌🇹‌🇸‌💠")
+if MENU == nil then
+else
+if MENU == 1 then MN1()
+end
+if MENU == 2 then MN2()
+end
+if MENU == 3 then MN3()
+end
+if MENU == 4 then MN4()
+end
+if MENU == 5 then EXIT()
+end
+end
+PUBG = -1
+end
+
+
+function MN1()
+BL = gg.multiChoice({
+"🛡 Bypass 1",
+"🛡 Bypass 2",
+"🛡 Block Report",
+"🛡 Fix 3rd Party",
+"⛔ Back"
+}, nil, "📂 Bypass Lobby")
+if BL == nil then
+else
+if BL [1] == true then B1()
+end
+if BL [2] == true then B2()
+end
+if BL [3] == true then BR()
+end
+if BL [4] == true then F3P()
+end
+if BL [5] == true then HOME()
+end
+end
+PUBG = -1
+end
+
+function B1()
+gg.clearResults()
+os.remove("src/main/java/com/google/errorprone/annotations")
+os.remove("src/main/java/com/google/errorprone/annotations")
+os.remove("src/main/java/com/google/errorprone/annotations/concurrent")
+os.remove("third_party.java_src.error_prone.project.annotations.Google_internal")
+gg.setVisible(false)
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.setVisible(false)
+gg.getResults(1)
+gg.searchNumber("133378;262403", gg.TYPE_DWORD, nil, nil, nil, nil)
+gg.getResults(0)
+gg.refineNumber("133378", gg.TYPE_DWORD)
+gg.getResults(99999)
+gg.editAll("131842", gg.TYPE_DWORD)
+gg.clearResults()
+gg.searchNumber("131586;131842", gg.TYPE_DWORD, nil, nil, nil, nil)
+gg.getResults(0)
+gg.refineNumber("131586", gg.TYPE_DWORD)
+gg.getResults(99999)
+gg.editAll("131842", gg.TYPE_DWORD)
+gg.clearResults()
+gg.clearResults()
+gg.sleep(400)
+gg.toast("Process ▓▒▒▒▒▒▒▒▒▒ 10%")
+gg.sleep(200)
+gg.toast("Process ▓▓▒▒▒▒▒▒▒▒ 20%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▒▒▒▒▒▒▒ 30%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▒▒▒▒▒▒ 40%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▒▒▒▒▒ 50%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▒▒▒▒ 60%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▓▒▒▒ 70%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▓▓▒▒ 80%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▓▓▓▒ 90%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▓▓▓▓ 100%")
+gg.sleep(400)
+gg.alert("Bypass 1 Done ✅")
+end
+ 
+function B2()
+gg.clearResults()
+gg.setVisible(false)
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("2D;2.2958874e-41;16384D;16384D::13", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.searchNumber("2.2958874e-41", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+revert = gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, i in ipairs((gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil))) do
+if i.flags == gg.TYPE_DWORD then
+i.value = "2.2958874039497803E-41"
+i.freeze = true
+end
+end
+gg.addListItems((gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)))
+gg.clearResults()
+gg.clearList()
+gg.clearResults()
+gg.setVisible(false)
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("134658", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, i in ipairs((gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil))) do
+if i.flags == gg.TYPE_DWORD then
+i.value = "67109633"
+i.freeze = true
+end
+end
+gg.addListItems((gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)))
+gg.clearResults()
+gg.setVisible(false)
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("134914", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, i in ipairs((gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil))) do
+if i.flags == gg.TYPE_DWORD then
+i.value = "67109633"
+i.freeze = true
+end
+end
+gg.addListItems((gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)))
+gg.clearResults()
+gg.setVisible(false)
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("133,378", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, i in ipairs((gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil))) do
+if i.flags == gg.TYPE_DWORD then
+i.value = "67109633"
+i.freeze = true
+end
+end
+gg.addListItems((gg.getResults(50000, nil, nil, nil, nil, nil, nil, nil, nil)))
+gg.clearResults()
+gg.setVisible(false)
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("70658~590336;67109377;67109633", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("70658~590336", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.getResults(99999)
+gg.editAll("67109633", gg.TYPE_DWORD)
+gg.clearResults()
+gg.clearList()
+gg.sleep(400)
+gg.toast("Process ▓▒▒▒▒▒▒▒▒▒ 10%")
+gg.sleep(200)
+gg.toast("Process ▓▓▒▒▒▒▒▒▒▒ 20%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▒▒▒▒▒▒▒ 30%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▒▒▒▒▒▒ 40%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▒▒▒▒▒ 50%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▒▒▒▒ 60%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▓▒▒▒ 70%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▓▓▒▒ 80%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▓▓▓▒ 90%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▓▓▓▓ 100%")
+gg.sleep(400)
+gg.alert("Bypass 2 Done ✅")
+end
+ 
+function BR()
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("909391408;808923191::8", gg.TYPE_DWORD)
+gg.getResults(999)
+gg.editAll("1089886885", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("909391408", gg.TYPE_DWORD)
+gg.getResults(999)
+gg.editAll("1089886885", gg.TYPE_DWORD)
+os.remove("/data/data/com.pubg.krmobile/app_appcache")
+os.remove("/data/data/com.pubg.krmobile/app_bugly")
+os.remove("/data/data/com.pubg.krmobile/app_crashrecord")
+os.remove("/data/data/com.pubg.krmobile/app_databases")
+os.remove("/data/data/com.pubg.krmobile/app_geolocation")
+os.remove("/data/data/com.pubg.krmobile/app_tbs")
+os.remove("/data/data/com.pubg.krmobile/app_textures")
+os.remove("/data/data/com.pubg.krmobile/app_webview")
+os.remove("/data/data/com.pubg.krmobile/app_webview_imsdk_inner_webview")
+os.remove("/data/data/com.pubg.krmobile/cache")
+os.remove("/data/data/com.pubg.krmobile/code_cache")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/tbslog")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/cache")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs")
+os.remove("/storage/emulated/0/tencent")
+os.remove("/storage/emulated/0/Tencent")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt")
+os.remove("/storage/emulated/0/.backups")
+os.remove("/data/data/com.pubg.krmobile/app_appcache")
+os.remove("/data/data/com.pubg.krmobile/app_bugly")
+os.remove("/data/data/com.pubg.krmobile/app_crashrecord")
+os.remove("/data/data/com.pubg.krmobile/app_databases")
+os.remove("/data/data/com.pubg.krmobile/app_geolocation")
+os.remove("/data/data/com.pubg.krmobile/app_tbs")
+os.remove("/data/data/com.pubg.krmobile/app_textures")
+os.remove("/data/data/com.pubg.krmobile/app_webview")
+os.remove("/data/data/com.pubg.krmobile/app_webview_imsdk_inner_webview")
+os.remove("/data/data/com.pubg.krmobile/cache")
+os.remove("/data/data/com.pubg.krmobile/code_cache")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/tbslog")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/cache")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs")
+os.remove("/storage/emulated/0/tencent")
+os.remove("/storage/emulated/0/Tencent")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt")
+os.remove("/storage/emulated/0/.backups")
+os.remove("/data/data/com.vng.pubgmobile/app_appcache")
+os.remove("/data/data/com.vng.pubgmobile/app_bugly")
+os.remove("/data/data/com.vng.pubgmobile/app_crashrecord")
+os.remove("/data/data/com.vng.pubgmobile/app_databases")
+os.remove("/data/data/com.vng.pubgmobile/app_geolocation")
+os.remove("/data/data/com.vng.pubgmobile/app_tbs")
+os.remove("/data/data/com.vng.pubgmobile/app_textures")
+os.remove("/data/data/com.vng.pubgmobile/app_webview")
+os.remove("/data/data/com.vng.pubgmobile/app_webview_imsdk_inner_webview")
+os.remove("/data/data/com.vng.pubgmobile/cache")
+os.remove("/data/data/com.vng.pubgmobile/code_cache")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/tbslog")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/cache")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs")
+os.remove("/storage/emulated/0/tencent")
+os.remove("/storage/emulated/0/Tencent")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/login-identifier.txt")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/cacheFile.txt")
+os.remove("/storage/emulated/0/.backups")
+os.remove("/data/data/com.vng.pubgmobile/app_appcache")
+os.remove("/data/data/com.vng.pubgmobile/app_bugly")
+os.remove("/data/data/com.vng.pubgmobile/app_crashrecord")
+os.remove("/data/data/com.vng.pubgmobile/app_databases")
+os.remove("/data/data/com.vng.pubgmobile/app_geolocation")
+os.remove("/data/data/com.vng.pubgmobile/app_tbs")
+os.remove("/data/data/com.vng.pubgmobile/app_textures")
+os.remove("/data/data/com.vng.pubgmobile/app_webview")
+os.remove("/data/data/com.vng.pubgmobile/app_webview_imsdk_inner_webview")
+os.remove("/data/data/com.vng.pubgmobile/cache")
+os.remove("/data/data/com.vng.pubgmobile/code_cache")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/tbslog")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/cache")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs")
+os.remove("/storage/emulated/0/tencent")
+os.remove("/storage/emulated/0/Tencent")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/login-identifier.txt")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/cacheFile.txt")
+os.remove("/storage/emulated/0/.backups")
+os.remove("/data/data/com.tencent.ig/app_appcache")
+os.remove("/data/data/com.tencent.ig/app_bugly")
+os.remove("/data/data/com.tencent.ig/app_crashrecord")
+os.remove("/data/data/com.tencent.ig/app_databases")
+os.remove("/data/data/com.tencent.ig/app_geolocation")
+os.remove("/data/data/com.tencent.ig/app_tbs")
+os.remove("/data/data/com.tencent.ig/app_textures")
+os.remove("/data/data/com.tencent.ig/app_webview")
+os.remove("/data/data/com.tencent.ig/app_webview_imsdk_inner_webview")
+os.remove("/data/data/com.tencent.ig/cache")
+os.remove("/data/data/com.tencent.ig/code_cache")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/tbslog")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/cache")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs")
+os.remove("/storage/emulated/0/tencent")
+os.remove("/storage/emulated/0/Tencent")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/login-identifier.txt")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/cacheFile.txt")
+os.remove("/storage/emulated/0/.backups")
+os.remove("/data/data/com.tencent.ig/app_appcache")
+os.remove("/data/data/com.tencent.ig/app_bugly")
+os.remove("/data/data/com.tencent.ig/app_crashrecord")
+os.remove("/data/data/com.tencent.ig/app_databases")
+os.remove("/data/data/com.tencent.ig/app_geolocation")
+os.remove("/data/data/com.tencent.ig/app_tbs")
+os.remove("/data/data/com.tencent.ig/app_textures")
+os.remove("/data/data/com.tencent.ig/app_webview")
+os.remove("/data/data/com.tencent.ig/app_webview_imsdk_inner_webview")
+os.remove("/data/data/com.tencent.ig/cache")
+os.remove("/data/data/com.tencent.ig/code_cache")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/tbslog")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/cache")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs")
+os.remove("/storage/emulated/0/tencent")
+os.remove("/storage/emulated/0/Tencent")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/login-identifier.txt")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/cacheFile.txt")
+os.remove("/storage/emulated/0/.backups")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/cache")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/tbslog")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/ca-bundle.pem")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/cacheFile.txt")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/login-identifier.txt")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/vmpcloudconfig.json")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/ProgramBinaryCache")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora")
+os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir")
+os.remove("/data/data/com.tencent.ig/app_appcache")
+os.remove("/data/data/com.tencent.ig/app_bugly")
+os.remove("/data/data/com.tencent.ig/app_crashrecord")
+os.remove("/data/data/com.tencent.ig/cache")
+os.remove("/data/data/com.tencent.ig/code_cache")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/cache")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/tbslog")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/ca-bundle.pem")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/vmpcloudconfig.json")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/ProgramBinaryCache")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora")
+os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir")
+os.remove("/data/data/com.pubg.krmobile/app_appcache")
+os.remove("/data/data/com.pubg.krmobile/app_bugly")
+os.remove("/data/data/com.pubg.krmobile/app_crashrecord")
+os.remove("/data/data/com.pubg.krmobile/cache")
+os.remove("/data/data/com.pubg.krmobile/code_cache")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/cache")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/tbslog")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/ca-bundle.pem")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/cacheFile.txt")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/login-identifier.txt")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/vmpcloudconfig.json")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/ProgramBinaryCache")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora")
+os.remove("/storage/emulated/0/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir")
+os.remove("/data/data/com.vng.pubgmobile/app_appcache")
+os.remove("/data/data/com.vng.pubgmobile/app_bugly")
+os.remove("/data/data/com.vng.pubgmobile/app_crashrecord")
+os.remove("/data/data/com.vng.pubgmobile/cache")
+os.remove("/data/data/com.vng.pubgmobile/code_cache")
+os.remove("/storage/emulated/0/Android/data/com.rekoo.pubgm/cache")
+os.remove("/storage/emulated/0/Android/data/com.rekoo.pubgm/files/tbslog")
+os.remove("/storage/emulated/0/Android/data/com.rekoo.pubgm/files/ca-bundle.pem")
+os.remove("/storage/emulated/0/Android/data/com.rekoo.pubgm/files/cacheFile.txt")
+os.remove("/storage/emulated/0/Android/data/com.rekoo.pubgm/files/login-identifier.txt")
+os.remove("/storage/emulated/0/Android/data/com.rekoo.pubgm/files/vmpcloudconfig.json")
+os.remove("/storage/emulated/0/Android/data/com.rekoo.pubgm/files/ProgramBinaryCache")
+os.remove("/storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp")
+os.remove("/storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs")
+os.remove("/storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs")
+os.remove("/storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo")
+os.remove("/storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo")
+os.remove("/storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora")
+os.remove("/storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir")
+os.remove("/data/data/com.rekoo.pubgm/app_appcache")
+os.remove("/data/data/com.rekoo.pubgm/app_bugly")
+os.remove("/data/data/com.rekoo.pubgm/app_crashrecord")
+os.remove("/data/data/com.rekoo.pubgm/cache")
+os.remove("/data/data/com.rekoo.pubgm/code_cache")
+gg.sleep(400)
+gg.toast("Process ▓▒▒▒▒▒▒▒▒▒ 10%")
+gg.sleep(200)
+gg.toast("Process ▓▓▒▒▒▒▒▒▒▒ 20%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▒▒▒▒▒▒▒ 30%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▒▒▒▒▒▒ 40%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▒▒▒▒▒ 50%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▒▒▒▒ 60%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▓▒▒▒ 70%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▓▓▒▒ 80%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▓▓▓▒ 90%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▓▓▓▓ 100%")
+gg.sleep(400)
+gg.alert("Block Report Done ✅")
+end
+
+function F3P()
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("9.32718271e-41", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+revert = gg.getResults(100000, nil, nil, nil, nil, nil, nil, nil, nil)
+local t = gg.getResults(100000, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, v in ipairs(t) do
+if v.flags == gg.TYPE_FLOAT then
+v.value = "0"
+v.freeze = true
+end
+end
+gg.addListItems(t)
+t = nil
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("9.21956299e-41", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+revert = gg.getResults(100000, nil, nil, nil, nil, nil, nil, nil, nil)
+local t = gg.getResults(100000, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, v in ipairs(t) do
+if v.flags == gg.TYPE_FLOAT then
+v.value = "0"
+v.freeze = true
+end
+end
+gg.addListItems(t)
+t = nil
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("9.25543623e-41", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+revert = gg.getResults(100000, nil, nil, nil, nil, nil, nil, nil, nil)
+local t = gg.getResults(100000, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, v in ipairs(t) do
+if v.flags == gg.TYPE_FLOAT then
+v.value = "0"
+v.freeze = true
+end
+end
+gg.addListItems(t)
+t = nil
+gg.clearResults()
+gg.clearList()
+gg.sleep(400)
+gg.toast("Process ▓▒▒▒▒▒▒▒▒▒ 10%")
+gg.sleep(200)
+gg.toast("Process ▓▓▒▒▒▒▒▒▒▒ 20%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▒▒▒▒▒▒▒ 30%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▒▒▒▒▒▒ 40%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▒▒▒▒▒ 50%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▒▒▒▒ 60%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▓▒▒▒ 70%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▓▓▒▒ 80%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▓▓▓▒ 90%")
+gg.sleep(200)
+gg.toast("Process ▓▓▓▓▓▓▓▓▓▓ 100%")
+gg.sleep(400)
+gg.alert("Fix 3rd Party Done ✅")
+end
+
+
+function MN2()
+WC = gg.multiChoice({
+"💠 Aimbot",
+"💠 Headshot",
+"💠 Less Recoil",
+"💠 No Recoil",
+"💠 Magic Bullet",
+"💠 Small Crosshair",
+"⛔ Back"
+}, nil, "📂 Weapon Cheats")
+if WC == nil then
+else
+if WC [1] == true then AB()
+end
+if WC [2] == true then HS()
+end
+if WC [3] == true then LR()
+end
+if WC [4] == true then NR()
+end
+if WC [5] == true then MB()
+end
+if WC [6] == true then SC()
+end
+if WC [7] == true then HOME()
+end
+end
+PUBG = -1
+end
+
+function AB()
+gg.clearResults()
+so=gg.getRangesList('libUE4.so')[1].start
+py=0x258B740
+setvalue(so+py,4,0)
+gg.clearResults()
+gg.toast("Aimbot Activated ✅")
+end
+ 
+function HS()
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("9.20161819458;23;25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("200", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Headshot Activated ✅")
+end
+
+function LR()
+gg.clearResults()
+so=gg.getRangesList('libUE4.so')[1].start
+py=0x136BDDC
+setvalue(so+py,4,0)
+gg.clearResults()
+gg.toast("Less Recoil Activated ✅")
+end
+
+function NR()
+gg.clearResults()
+so=gg.getRangesList('libUE4.so')[1].start
+py=0x136BDDC
+setvalue(so+py,4,0)
+so=gg.getRangesList('libUE4.so')[1].start
+py=0x381CCE0
+setvalue(so+py,4,0)
+so=gg.getRangesList('libUE4.so')[1].start
+py=0x376E57C
+setvalue(so+py,4,0)
+gg.clearResults()
+gg.toast("No Recoil Activated ✅")
+end
+
+function MB()
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("; 䇈 䇴", gg.TYPE_WORD, false, gg.SIGN_EQUAL, 0, -1)
+revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("; 䓺 䓺", gg.TYPE_WORD)
+gg.clearResults()
+gg.toast("Magic Bullet Activated ✅")
+end
+
+function SC()
+gg.clearResults()
+so=gg.getRangesList('libUE4.so')[1].start
+py=0x136DAB8
+setvalue(so+py,16,90)
+gg.clearResults()
+gg.toast("Small Crosshair Activated ✅")
+end
+
+
+function MN3()
+OC = gg.multiChoice({
+"💠 Antena",
+"💠 Ipad View",
+"💠 No Fog",
+"💠 No Grass",
+"💠 Dark Map",
+"💠 Black Sky",
+"💠 Long Jump",
+"💠 Speed Run",
+"⛔ Back"
+}, nil, "📂 Other Cheats")
+if OC == nil then
+else
+if OC [1] == true then AN()
+end
+if OC [2] == true then IV()
+end
+if OC [3] == true then NF()
+end
+if OC [4] == true then NG()
+end
+if OC [5] == true then DM()
+end
+if OC [6] == true then BS()
+end
+if OC [7] == true then LJ()
+end
+if OC [8] == true then SR()
+end
+if OC [9] == true then HOME()
+end
+end
+PUBG = -1
+end
+
+function AN() 
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("88.50576019287F;87.27782440186F;-100.91194152832F;1F::13", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("88.50576019287F;87.27782440186F;1F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(1000, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("1.96875;1.96875;999;1.96875;1.96875;999", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Antena Activated ✅")
+end
+ 
+function IV()
+gg.clearResults()
+so=gg.getRangesList('libUE4.so')[1].start
+py=0x381FCB0
+setvalue(so+py,16,254.70928955078)
+gg.clearResults()
+gg.toast("Ipad View Activated ✅")
+end
+
+function NF()
+gg.clearResults()
+so=gg.getRangesList('libUE4.so')[1].start
+py=0x2559FE8
+setvalue(so+py,4,0)
+so=gg.getRangesList('libUE4.so')[1].start
+py=0x2D0DA34
+setvalue(so+py,16,0)
+gg.clearResults()
+gg.toast("No Fog Activated ✅")
+end
+
+function NG()
+gg.clearResults()
+so=gg.getRangesList("libUE4.so")[1].start
+py=0x38231384
+setvalue(so+py,16,0)
+gg.clearResults()
+gg.toast("No Grass Activated ✅")
+end
+
+function DM()
+gg.clearResults()
+so=gg.getRangesList('libUE4.so')[1].start
+py=0x2EFA72C
+setvalue(so+py,4,0)
+gg.clearResults()
+gg.toast("Dark Map Activated ✅")
+end
+
+function BS()
+gg.clearResults()
+so=gg.getRangesList("libUE4.so")[1].start
+py=0x60689488
+setvalue(so+py,4,-1222130000)
+gg.clearResults()
+gg.toast("Black Sky Activated ✅")
+end
+
+function LJ()
+gg.clearResults()
+so=gg.getRangesList("libUE4.so")[1].start
+py=0x18464292
+setvalue(so+py,16,-2.83335992E28)
+gg.clearResults()
+gg.toast("Long Jump Activated ✅")
+end
+
+function SR()
+gg.clearResults()
+so=gg.getRangesList ('libUE4.so') [1] .start
+py=0x3789A54
+setvalue (so+py,4.0)
+so=gg.getRangesList ('libUE4.so') [1] .start
+py=0x12C6A30
+setvalue (so+py,4.0)
+gg.clearResults()
+gg.toast("Speed Run Activated ✅")
+end
+
+
+function MN4()
+SC = gg.multiChoice({
+"💠 Golden Pharaoh",
+"💠 M416 Thefool",
+"💠 M416 Glacier",
+"💠 M416 Lizard",
+"💠 M416 Aurora",
+"⛔ Back"
+}, nil, "📂 Skin Cheats")
+if SC == nil then
+else
+if SC [1] == true then GP()
+end
+if SC [2] == true then M4T()
+end
+if SC [3] == true then M4G()
+end
+if SC [4] == true then M4L()
+end
+if SC [5] == true then M4A()
+end
+if SC [6] == true then HOME()
+end
+end
+PUBG = -1
+end
+
+function GP()
+gg.clearResults()
+function split(szFullString, szSeparator)
+local nFindStartIndex = 1 
+local nSplitIndex = 1 
+local nSplitArray = {} while true do 
+local 
+nFindLastIndex = string.find(szFullString, szSeparator, nFindStartIndex) 
+if not nFindLastIndex then 
+nSplitArray[nSplitIndex] = string.sub(szFullString, nFindStartIndex, string.len(szFullString)) 
+break end 
+nSplitArray[nSplitIndex] = string.sub(szFullString, nFindStartIndex, nFindLastIndex - 1) 
+nFindStartIndex = nFindLastIndex + string.len(szSeparator) 
+nSplitIndex = nSplitIndex + 1 end return 
+nSplitArray end function 
+xgxc(szpy, MS) for x = 1, #(MS) do 
+xgpy = szpy + MS[x]["offset"] xglx = MS[x]["type"] 
+xgsz = MS[x]["value"] 
+gg.setValues({[1] = {address = xgpy, flags = xglx, value = xgsz}}) 
+xgsl = xgsl + 1 end end function 
+MoShinp(MoShi) 
+gg.clearResults() 
+gg.setRanges(MoShi[1]["memory"]) 
+gg.searchNumber(MoShi[3]["value"], MoShi[3]["type"]) 
+if gg.getResultCount() == 0 then 
+gg.toast(MoShi[2]["name"] .. "")
+else 
+gg.refineNumber(MoShi[3]["value"], MoShi[3]["type"]) 
+gg.refineNumber(MoShi[3]["value"], MoShi[3]["type"]) 
+gg.refineNumber(MoShi[3]["value"], MoShi[3]["type"]) 
+if gg.getResultCount() == 0 then 
+gg.toast(MoShi[2]["name"] .. "") 
+else 
+sl = gg.getResults(999999) 
+sz = gg.getResultCount() 
+xgsl = 0 if sz > 999999 then 
+sz = 999999 end for i = 1, sz do 
+pdsz = true for v = 4, #(MoShi) do if 
+pdsz == true then 
+pysz = {} pysz[1] = {} pysz[1].address = sl[i].address + MoShi[v]["offset"] 
+pysz[1].flags = MoShi[v]["type"] 
+szpy = gg.getValues(pysz) 
+pdpd = MoShi[v]["lv"] .. ";" .. szpy[1].value szpd = split(pdpd, ";") 
+tzszpd = szpd[1] 
+pyszpd = szpd[2] 
+if tzszpd == pyszpd then 
+pdjg = true pdsz = true else 
+pdjg = false pdsz = false end end end 
+if pdjg == true then 
+szpy = sl[i].address xgxc(szpy, MS) 
+xgjg = true end end 
+if xgjg == true then 
+gg.toast(MoShi[2]["name"] .. "" .. xgsl .. "") 
+else 
+gg.toast(MoShi[2]["name"] .. "") 
+end 
+end 
+end 
+end
+function SearchWrite(Search, Write, Type)
+gg.clearResults()
+gg.setVisible(false)
+gg.searchNumber(Search[1][1], Type)
+local count = gg.getResultCount()
+local result = gg.getResults(count)
+gg.clearResults()
+local data = {} 
+local base = Search[1][2] 
+if (count > 0) then
+for i, v in ipairs(result) do
+v.isUseful = true 
+end
+for k=2, #Search do
+local tmp = {}
+local offset = Search[k][2] - base 
+local num = Search[k][1]   
+for i, v in ipairs(result) do
+tmp[#tmp+1] = {} 
+tmp[#tmp].address = v.address + offset  
+tmp[#tmp].flags = v.flags  
+end   
+tmp = gg.getValues(tmp)    
+for i, v in ipairs(tmp) do
+if ( tostring(v.value) ~= tostring(num) ) then 
+result[i].isUseful = false 
+end
+end
+end
+for i, v in ipairs(result) do
+if (v.isUseful) then 
+data[#data+1] = v.address
+end
+end
+if (#data > 0) then
+gg.toast(""..#data.."")
+local t = {}
+local base = Search[1][2]
+for i=1, #data do
+for k, w in ipairs(Write) do
+offset = w[2] - base
+t[#t+1] = {}
+t[#t].address = data[i] + offset
+t[#t].flags = Type
+t[#t].value = w[1]  
+if (w[3] == true) then
+local item = {}
+item[#item+1] = t[#t]
+item[#item].freeze = true
+gg.addListItems(item)
+end      
+end
+end
+gg.setValues(t)
+else
+gg.toast("", false)
+return false
+end
+else
+gg.toast("")
+return false
+end
+end
+local app = {}
+function Assert(data)
+if data == nil or data == "" or data == "nil" then
+return false
+else
+return true
+end
+end
+function mearrass(memory, array)
+if Assert(memory) and Assert(array) then
+return true
+else
+return false
+end
+end
+function typetab(array, type)
+local datatype = {}
+for i = 1, #array do
+if Assert(array[i].type) then
+table.insert(datatype, i, array[i].type)
+else
+if Assert(type) then
+table.insert(datatype, i, type)
+else
+return false
+end
+end
+end
+return true, datatype
+end
+function app.memorysearch(memory, array, type)
+gg.setVisible(false)
+local rx = mearrass(memory, array)
+if rx then
+local rx, datatype = typetab(array, type)
+if rx then
+if Assert(array[1].hv) then
+gg.clearResults()
+gg.setRanges(memory)
+gg.searchNumber(array[1].lv .. "~" .. array[1].hv, datatype[1])
+else
+gg.clearResults()
+gg.setRanges(memory)
+gg.searchNumber(array[1].lv, datatype[1])
+end
+if gg.getResultCount() == 0 then
+return false
+else
+local tab = {}
+local data = gg.getResults(gg.getResultCount())
+gg.clearResults()
+for i = 1, #data do
+data[i].rx = true
+end
+for i = 2, #array do
+local t = {}
+local offset = array[i].offset
+for x = 1, #data do
+t[#t + 1] = {}
+t[#t].address = data[x].address + offset
+t[#t].flags = datatype[i]
+end
+local t = gg.getValues(t)
+for z = 1, #t do
+if Assert(array[i].hv) then
+if tonumber(t[z].value) < tonumber(array[i].lv) or tonumber(t[z].value) > tonumber(array[i].hv) then
+data[z].rx = false
+end
+else
+if tostring(t[z].value) ~= tostring(array[i].lv) then
+data[z].rx = false
+end
+end
+end
+end
+for i = 1, #data do
+if data[i].rx then
+tab[#tab + 1] = data[i].address
+end
+end
+if #tab > 0 then
+return true, tab
+else
+return false
+end
+end
+else
+print("wrong type parameter")
+gg.toast("wrong type parameter")
+os.exit()
+end
+else
+print("memory or array parameter error")
+gg.toast("memory or array parameter error")
+os.exit()
+end
+end
+function app.memoryread(addr, type)
+local t = {}
+t[1] = {}
+t[1].address = addr
+t[1].flags = type
+if #t > 0 then
+return true, gg.getValues(t)[1].value
+else
+return false
+end
+end
+function app.memorywrite(addr, type, value, freeze)
+local t = {}
+t[1] = {}
+t[1].address = addr
+t[1].flags = type
+t[1].value = value
+if #t > 0 then
+if Assert(freeze) then
+t[1].freeze = freeze
+--gg.setValues(t)
+return gg.addListItems(t)
+else
+return gg.setValues(t)
+end
+else
+return false
+end
+end
+function edit(orig,ret)_om=orig[1].memory or orig[1][1]_ov=orig[3].value or orig[3][1]_on=orig[2].name or orig[2][1]gg.clearResults()gg.setRanges(_om)gg.searchNumber(_ov,orig[3].type or orig[3][2])sz=gg.getResultCount()if sz<1 then gg.toast(_on.."开启失败")else sl=gg.getResults(720)for i=1,sz do ist=true for v=4,#orig do if ist==true and sl[i].value==_ov then cd={{}}cd[1].address=sl[i].address+(orig[v].offset or orig[v][2])cd[1].flags=orig[v].type or orig[v][3]szpy=gg.getValues(cd)cdlv=orig[v].lv or orig[v][1]cdv=szpy[1].value if cdlv==cdv then pdjg=true ist=true else pdjg=false ist=false end end end if pdjg==true then szpy=sl[i].address for x=1,#(ret)do xgpy=szpy+(ret[x].offset or ret[x][2])xglx=ret[x].type or ret[x][3]xgsz=ret[x].value or ret[x][1]xgdj=ret[x].freeze or ret[x][4]xgsj={{address=xgpy,flags=xglx,value=xgsz}}if xgdj==true then xgsj[1].freeze=xgdj gg.addListItems(xgsj)else gg.setValues(xgsj)end end xgjg=true end end if xgjg==true then gg.toast(_on.."Open successfully")else gg.toast(_on.."Open failed")end end end
+function SearchWrite(Search, Write, Type) gg.clearResults() gg.setVisible(false) gg.searchNumber(Search[1][1], Type) local count = gg.getResultCount() local result = gg.getResults(count) gg.clearResults() local data = {} local base = Search[1][2] if (count > 0) then for i, v in ipairs(result) do v.isUseful = true end for k=2, #Search do local tmp = {} local offset = Search[k][2] - base local num = Search[k][1] for i, v in ipairs(result) do tmp[#tmp+1] = {} tmp[#tmp].address = v.address + offset tmp[#tmp].flags = v.flags end tmp = gg.getValues(tmp) for i, v in ipairs(tmp) do if ( tostring(v.value) ~= tostring(num) ) then result[i].isUseful = false end end end for i, v in ipairs(result) do if (v.isUseful) then data[#data+1] = v.address end end if (#data > 0) then gg.toast("搜索到"..#data.."条数据") local t = {} local base = Search[1][2] for i=1, #data do for k, w in ipairs(Write) do offset = w[2] - base t[#t+1] = {} t[#t].address = data[i] + offset t[#t].flags = Type t[#t].value = w[1] if (w[3] == true) then local item = {} item[#item+1] = t[#t] item[#item].freeze = true gg.addListItems(item) end end end gg.setValues(t) gg.toast("already edited"..#t.."Article data") gg.addListItems(t) else gg.toast("not found", false) return false end else gg.toast("Not Found") return false end end
+function split(szFullString, szSeparator) local nFindStartIndex = 1 local nSplitIndex = 1 local nSplitArray = {} while true do local nFindLastIndex = string.find(szFullString, szSeparator, nFindStartIndex) if not nFindLastIndex then nSplitArray[nSplitIndex] = string.sub(szFullString, nFindStartIndex, string.len(szFullString)) break end nSplitArray[nSplitIndex] = string.sub(szFullString, nFindStartIndex, nFindLastIndex - 1) nFindStartIndex = nFindLastIndex + string.len(szSeparator) nSplitIndex = nSplitIndex + 1 end return nSplitArray end function xgxc(szpy, qmxg) for x = 1, #(qmxg) do xgpy = szpy + qmxg[x]["offset"] xglx = qmxg[x]["type"] xgsz = qmxg[x]["value"] xgdj = qmxg[x]["freeze"] if xgdj == nil or xgdj == "" then gg.setValues({[1] = {address = xgpy, flags = xglx, value = xgsz}}) else gg.addListItems({[1] = {address = xgpy, flags = xglx, freeze = xgdj, value = xgsz}}) end xgsl = xgsl + 1 xgjg = true end end function xqmnb(qmnb) gg.clearResults() gg.setRanges(qmnb[1]["memory"]) gg.searchNumber(qmnb[3]["value"], qmnb[3]["type"]) if gg.getResultCount() == 0 then gg.toast(qmnb[2]["name"] .. "Open failed") else gg.refineNumber(qmnb[3]["value"], qmnb[3]["type"]) gg.refineNumber(qmnb[3]["value"], qmnb[3]["type"]) gg.refineNumber(qmnb[3]["value"], qmnb[3]["type"]) if gg.getResultCount() == 0 then gg.toast(qmnb[2]["name"] .. "Open failed") else sl = gg.getResults(999999) sz = gg.getResultCount() xgsl = 0 if sz > 999999 then sz = 999999 end for i = 1, sz do pdsz = true for v = 4, #(qmnb) do if pdsz == true then pysz = {} pysz[1] = {} pysz[1].address = sl[i].address + qmnb[v]["offset"] pysz[1].flags = qmnb[v]["type"] szpy = gg.getValues(pysz) pdpd = qmnb[v]["lv"] .. ";" .. szpy[1].value szpd = split(pdpd, ";") tzszpd = szpd[1] pyszpd = szpd[2] if tzszpd == pyszpd then pdjg = true pdsz = true else pdjg = false pdsz = false end end end if pdjg == true then szpy = sl[i].address xgxc(szpy, qmxg) end end if xgjg == true then gg.toast(qmnb[2]["name"] .. "Opensuccess,Totalmodify" .. xgsl .. "Article data") else gg.toast(qmnb[2]["name"] .. "Open failed") end end end end
+function Fxs(Search, Write,Neicun,Mingcg,Shuzhiliang)  gg.clearResults()  gg.setRanges(Neicun)  gg.setVisible(false)  gg.searchNumber(Search[1][1], Search[1][3])  local count = gg.getResultCount()  local result = gg.getResults(count)  gg.clearResults()  local data = {}   local base = Search[1][2]    if (count > 0) then  for i, v in ipairs(result) do  v.isUseful = true  end  for k=2, #Search do  local tmp = {}  local offset = Search[k][2] - base   local num = Search[k][1]    for i, v in ipairs(result) do  tmp[#tmp+1] = {}  tmp[#tmp].address = v.address + offset  tmp[#tmp].flags = Search[k][3]  end    tmp = gg.getValues(tmp)    for i, v in ipairs(tmp) do  if ( tostring(v.value) ~= tostring(num) ) then  result[i].isUseful = false  end  end  end    for i, v in ipairs(result) do  if (v.isUseful) then  data[#data+1] = v.address  end  end  if (#data > 0) then  gg.toast(Mingcg.."搜索到"..#data.."条数据")  local t = {}  local base = Search[1][2]  if Shuzhiliang == "" and Shuzhiliang > 0 and Shuzhiliang < #data then   Shuzhiliang=Shuzhiliang  else  Shuzhiliang=#data  end  for i=1, Shuzhiliang do  for k, w in ipairs(Write) do  offset = w[2] - base  t[#t+1] = {}  t[#t].address = data[i] + offset  t[#t].flags = w[3]  t[#t].value = w[1]  if (w[4] == true) then  local item = {}  item[#item+1] = t[#t]  item[#item].freeze = true  gg.addListItems(item)  end  end  end  gg.setValues(t)  gg.toast(Mingcg.."already edited"..#t.."Article data")     gg.addListItems(t)  else  gg.toast(Mingcg.."Open failed", false)  return false  end  else  gg.toast("Search failed") return false  end end  
+qmnb = {
+{["memory"] = 32},
+{["name"] = "@technicalak78600"},
+{["value"] = 1400129, ["type"] = 4},
+{["lv"] = 519, ["offset"] = 4, ["type"] = 4},
+}
+qmxg = {
+{["value"] = 1405628, ["offset"] = 0, ["type"] = 4},
+}
+xqmnb(qmnb)
+gg.searchNumber("10300300", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("10300300", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("1103003022", gg.TYPE_DWORD)
+gg.toast("Golden Pharaoh Activated ✅")
+end
+ 
+function M4T()
+gg.clearResults()
+gg.searchNumber("10100400 ", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("10100400 ", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("1101004062", gg.TYPE_DWORD)
+gg.toast("M416 Thefool Activated ✅")
+end
+ 
+function M4G()
+gg.clearResults()
+gg.searchNumber("10100400 ", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("10100400 ", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("1101004046", gg.TYPE_DWORD)
+gg.toast("M416 Glacier Activated ✅")
+end
+
+function M4L() 
+gg.clearResults()
+gg.searchNumber("10100400 ", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("10100400 ", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("1101004086", gg.TYPE_DWORD)
+gg.toast("M416 Lizard Activated ✅")
+end
+
+function M4A()
+gg.clearResults()
+gg.searchNumber("10100200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("10100200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("1101002056", gg.TYPE_DWORD)
+gg.toast("M416 Aurora Activated ✅")
+end
+
+
+function EXIT()
+print("🔵Telegram Join @smartcheats🔵")
+gg.skipRestoreState()
+gg.setVisible(true)
+os.exit()
+end
+while true do
+if gg.isVisible(true) then
+PUBG = 1
+gg.setVisible(false)
+end
+if PUBG == 1 then
+HOME()
+end
+end
